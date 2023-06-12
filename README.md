@@ -16,8 +16,10 @@ npm i
 
 To encrypt/decrypt a script file, use the following command:
 
+```shell
 Encrypt: node kirvy.js --encrypt <file_to_encrypt> --output <output_file_name (include extension if have like .js, .txt, .md, .html etc)>
 Decrypt: node kirvy.js --decrypt <file_to_decrypt (only files encrypted with kirvy)> --output <output_file_name>
+```
 
 ## Demo
 
